@@ -75,6 +75,7 @@ Smaller Campus router
 ![image](https://github.com/user-attachments/assets/a820c142-b331-4d3d-8e12-92d0246fa508)
 
 Cloud
+
 ![image](https://github.com/user-attachments/assets/c6a12960-00dd-45d5-932e-83c313be5496)
 
 Configuring clock rate for serial ports on the main campus router:
