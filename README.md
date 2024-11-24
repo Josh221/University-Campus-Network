@@ -1,5 +1,4 @@
-# University-Campus-Network
-Design and Implementation of an Enterprise Network for a University Campus
+# Design and Implementation of an Enterprise Network for a University Campus
 
 ## Networking simulation software used:
 Cisco Packet Tracer 8.2.2
